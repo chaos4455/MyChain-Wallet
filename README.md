@@ -111,17 +111,17 @@ Esta versão MVP da MyChain Wallet já demonstra um conjunto rico de funcionalid
 
 ## 🔧 Tecnologias Utilizadas
 
-| Tecnologia        | Ícone | Descrição                                                               | Badge                                         |
-| :---------------- | :---: | :---------------------------------------------------------------------- | :-------------------------------------------- |
-| **React JS**      |   ⚛️   | Biblioteca JavaScript para construção de interfaces de usuário.         | [![React][react-shield]][react-url]           |
-| **Meteor JS**     |   ☄️   | Plataforma full-stack para desenvolvimento web/mobile/desktop com JS. | [![Meteor][meteor-shield]][meteor-url]         |
-| **Node.js**       |   🟩   | Ambiente de execução JavaScript server-side (via Meteor).             | [![Node.js][node-shield]][node-url]           |
-| **MongoDB**       |   🍃   | Banco de dados NoSQL padrão do Meteor.                                | [![MongoDB][mongodb-shield]][mongodb-url]       |
-| **HTML5 & CSS3**  | 🎨📑  | Estrutura e estilização da interface.                                 | [![HTML5][html5-shield]][html5-url] [![CSS3][css3-shield]][css3-url] |
-| **JavaScript (ES6+)** |   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="16"/> | Linguagem principal de programação. | [![JavaScript][js-shield]][js-url] |
+| Tecnologia            | Ícone | Descrição                                                               | Badge                                         |
+| :-------------------- | :---: | :---------------------------------------------------------------------- | :-------------------------------------------- |
+| **React JS**          |   ⚛️   | Biblioteca JavaScript para construção de interfaces de usuário.         | [![React][react-shield]][react-url]           |
+| **Meteor JS**         |   ☄️   | Plataforma full-stack para desenvolvimento web/mobile/desktop com JS. | [![Meteor][meteor-shield]][meteor-url]         |
+| **Node.js**           |   🟩   | Ambiente de execução JavaScript server-side (via Meteor).             | [![Node.js][node-shield]][node-url]           |
+| **MongoDB**           |   🍃   | Banco de dados NoSQL padrão do Meteor.                                | [![MongoDB][mongodb-shield]][mongodb-url]       |
+| **HTML5**             |   📑   | Linguagem de marcação para estrutura web.                               | [![HTML5][html5-shield]][html5-url]           |
+| **CSS3**              |   🎨   | Linguagem para estilização da interface.                              | [![CSS3][css3-shield]][css3-url]              |
+| **JavaScript (ES6+)** |   🟡   | Linguagem principal de programação client & server-side.            | [![JavaScript][js-shield]][js-url]            |
 
-*(Outras bibliotecas específicas do React ou Meteor podem estar em uso)*
-
+*(Outras bibliotecas específicas do React, Meteor ou UI podem estar em uso)*
 ---
 
 ## 🚦 Status Atual e Próximos Passos (Roadmap Preliminar)
@@ -331,28 +331,3 @@ Este software é **proprietário** e distribuído sob os termos definidos pela R
 
 <img width="530" alt="chrome_AA2LxtLznt" src="https://github.com/user-attachments/assets/91905342-d5cd-498f-8def-89ad7fbd71f6" />
 
-<!-- Shields/Badges Definitions (Orange Theme: #F39C12, #E67E22) -->
-[react-shield]: https://img.shields.io/badge/React-^18.x-F39C12?style=for-the-badge&logo=react&logoColor=black
-[react-url]: https://reactjs.org/
-[meteor-shield]: https://img.shields.io/badge/Meteor_JS-^2.x-F39C12?style=for-the-badge&logo=meteor&logoColor=white
-[meteor-url]: https://www.meteor.com/
-[version-shield]: https://img.shields.io/badge/Version-0.1_MVP-E67E22?style=for-the-badge
-[version-url]: #
-[status-shield]: https://img.shields.io/badge/Status-Experimental-E67E22?style=for-the-badge
-[status-url]: #
-[license-shield]: https://img.shields.io/badge/License-Proprietary-E67E22?style=for-the-badge
-[license-url]: #
-[maintainer-shield]: https://img.shields.io/badge/Maintainer-Replika_AI_Solutions-E67E22?style=for-the-badge
-[maintainer-url]: # COLOCAR_LINK_DA_REPLIKA_SE_TIVER
-[last-commit-shield]: https://img.shields.io/github/last-commit/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_MYCHAIN_WALLET?color=E67E22&style=for-the-badge
-[last-commit-url]: https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO_MYCHAIN_WALLET/commits/main
-[node-shield]: https://img.shields.io/badge/Node.js-LTS-F39C12?style=for-the-badge&logo=node.js&logoColor=white
-[node-url]: https://nodejs.org/
-[mongodb-shield]: https://img.shields.io/badge/MongoDB- ব্যবহৃত -F39C12?style=for-the-badge&logo=mongodb&logoColor=white
-[mongodb-url]: https://www.mongodb.com/
-[html5-shield]: https://img.shields.io/badge/HTML5-Utilized-F39C12?style=for-the-badge&logo=html5&logoColor=white
-[html5-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[css3-shield]: https://img.shields.io/badge/CSS3-Utilized-F39C12?style=for-the-badge&logo=css3&logoColor=white
-[css3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[js-shield]: https://img.shields.io/badge/JavaScript-ES6+-F39C12?style=for-the-badge&logo=javascript&logoColor=black
-[js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
