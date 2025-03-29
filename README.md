@@ -6,7 +6,6 @@
 [![Status][status-shield]][status-url]
 [![License: Proprietary][license-shield]][license-url]
 [![Maintainer: Replika AI Solutions][maintainer-shield]][maintainer-url]
-[![Last Commit][last-commit-shield]][last-commit-url]
 
 **O Ecossistema Completo para seus Tokens MyChain (MCH)!** ✨
 
