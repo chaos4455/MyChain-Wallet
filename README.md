@@ -1,13 +1,11 @@
 # ⛓️ MyChain Wallet 💰📱💻
 
-[![React][react-shield]][react-url]
-[![Meteor][meteor-shield]][meteor-url]
-[![Version][version-shield]][version-url]
-[![Status][status-shield]][status-url]
-[![License: Proprietary][license-shield]][license-url]
-[![Maintainer: Replika AI Solutions][maintainer-shield]][maintainer-url]
+[![React][react-shield]][react-url] [![Meteor][meteor-shield]][meteor-url] [![Version][version-shield]][version-url]
+[![Status][status-shield]][status-url] [![License: Proprietary][license-shield]][license-url]
+[![Maintainer: Replika AI Solutions][maintainer-shield]][maintainer-url] [![Last Commit][last-commit-shield]][last-commit-url]
 
 **O Ecossistema Completo para seus Tokens MyChain (MCH)!** ✨
+
 
 Bem-vindo à **MyChain Wallet**, a carteira digital oficial e integrada projetada especificamente para interagir com a blockchain modular **MyChain**. Desenvolvida pela **Replika AI Solutions**, esta aplicação (Web, Mobile e Desktop) é a sua porta de entrada para gerenciar, transacionar, fazer stake e explorar todo o potencial dos tokens MCH.
 
