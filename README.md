@@ -9,6 +9,18 @@ Bem-vindo à **MyChain Wallet**, a carteira digital oficial e integrada projetad
 
 ---
 
+## 👨‍💻 Sobre o Autor
+
+Eu sou **Elias Andrade**, um apaixonado por tecnologia e resolução de problemas, atuando como Arquiteto de Soluções e Desenvolvedor Full Stack na **Replika AI Solutions**. Tenho vasta experiência em desenvolvimento Python, arquitetura de sistemas, cloud, DevOps, MLOps e na aplicação de Inteligência Artificial para criar soluções de negócio inovadoras. Este projeto é um reflexo dessa paixão e expertise.
+
+<img width="656" alt="chrome_7ks3sNyRJh" src="https://github.com/user-attachments/assets/45236990-9e1b-4de7-ac41-103d5fbab6d7" />
+
+
+**Vamos conectar e discutir como a tecnologia pode impulsionar o seu negócio?**
+
+*   **WhatsApp:** [+55 11 9 1335 3137](https://wa.me/5511913353137)
+
+
 ## 🌟 Sobre o Projeto
 
 A MyChain Wallet nasceu da necessidade de uma solução robusta, segura e intuitiva para os usuários do ecossistema MyChain. Construída com as tecnologias modernas **React JS** e **Meteor JS**, a carteira oferece uma experiência fluida e reativa em múltiplas plataformas.
